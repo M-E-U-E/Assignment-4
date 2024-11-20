@@ -1,0 +1,40 @@
+.hotel-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 1200px;
+  }
+  
+  .hotel-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .image-gallery {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  
+  .image-gallery img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .amenities ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .rooms img {
+    max-width: 100%;
+    border-radius: 5px;
+  }
+  
+  .location iframe {
+    margin-top: 20px;
+    border: none;
+  }
+  
