@@ -1,0 +1,31 @@
+/* styles/components.module.css */
+.header {
+    background-color: #003580;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .footer {
+    background-color: #003580;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .hotelDetails {
+    padding: 20px;
+  }
+  
+  .imageGallery img {
+    width: 100%;
+    max-width: 300px;
+    margin: 10px;
+    border-radius: 5px;
+  }
+  
+  .amenitiesList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
