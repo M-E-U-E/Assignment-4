@@ -29,7 +29,7 @@ follow the instruction for the api
    
     Go to the Directory:
     ```bash
-    cd hotel-details
+    cd Assignment-4
     ```
     Install dependencies:
     ```bash
@@ -63,7 +63,7 @@ follow the instruction for the api
 #### GET /hotels - Retrieve All Hotels
 ```bash
 Method: GET
-URL: http://localhost:3000/api/hotels
+URL: http://localhost:3010/api/hotels
 ```
 Test Steps:
 1. Create new request in Postman
